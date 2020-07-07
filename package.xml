@@ -13,6 +13,6 @@
   <buildtool_depend>catkin</buildtool_depend>
   <buildtool_depend>catkin_simple</buildtool_depend>
   
-  <depend>opencv2_catkin</depend>
+  <depend>opencv3_catkin</depend>
 
 </package>
